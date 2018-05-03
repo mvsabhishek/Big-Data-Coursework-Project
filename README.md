@@ -1,7 +1,7 @@
-#Human Activity Recognition with Smartphones using Multinomial Logistic Regression 
+Human Activity Recognition with Smartphones using Multinomial Logistic Regression 
 Name: Venkata Siva Abhishek Munukutla
 
-#Summary
+Summary
 
 In this project, I attempted to test the accuracy of a cell/mobile phone prediction of human activity with the help of Multinomial Logistic Regression. The dataset contains 561 columns and over 10000 records. The columns describe features like acceleration and angular velocity contain numeric values between -1 to +1. The columns have been scaled for the ease of use. The columns of the dataset describe the position of the phone in 3 dimensions based on its default calibration.  With the help of these values, human activities like sitting, standing, walking, etc. were classified.
 
