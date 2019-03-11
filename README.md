@@ -14,4 +14,4 @@ Later, I attempted to classify the activity into six categories. However, I ran 
 If I am successful at maximizing the accuracy, I can classify the activity of a person based on the various parameters. This makes the cell/mobile phone equipped with the functionality of predicting the person’s activity and thereby helping the person track his/her daily activity efficiently. 
 
 ## CHECK OUT THE PROJECT REPORT FOR FINAL OBSERVATIONS 
-![Final Report] (https://github.com/mvsabhishek/Big-Data-Coursework-Project/blob/master/Big%20data.docx)
+[Final Report](https://github.com/mvsabhishek/Big-Data-Coursework-Project/blob/master/Big%20data.docx)
